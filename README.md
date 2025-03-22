@@ -1,2 +1,16 @@
-# My-page
-file:///C:/Users/%60Users/Downloads/SHAREit/RMX3630/file/Untitled-1.html
+<!DOCTYPE html>
+<head>
+    <title>
+        my first page
+    </title>
+</head>
+<body>
+    <h1>
+        my Information
+    </h1>
+    <pre>
+        name : youssef samy
+        id : 20231357
+    </pre>
+
+</body>
